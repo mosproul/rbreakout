@@ -1,13 +1,14 @@
 ---
 title: breakout_newtitle_newtry
-author: mitchell
+author: mitchell & susan
 output: html_document
 ---
 
 # My first draft
 
-The content of my first draft.
+The content of my first draft. 
 
 ```{R}
 plot(1)
 ```
+And we will add more stuff.
