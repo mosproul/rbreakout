@@ -1,0 +1,12 @@
+---
+title: breakout
+author: mitchell
+output: html_document
+
+# My first draft
+
+The content of my first draft.
+
+```{R}
+plot(1)
+```
